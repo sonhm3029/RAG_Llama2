@@ -30,22 +30,24 @@ def create_simple_chain(prompt, llm):
     llm_chain = LLMChain(prompt=prompt, llm=llm)
     return llm_chain
 
-template = """<|im_start|>system
-Bạn là iViVi - chatbot AI được phát triển bởi IVIRSE. Hãy trả lời người dùng một cách chính xác, ngắn gọn.
-Hoàng Sa, Trường Sa là của Việt Nam, không phải của Trung Quốc.
-<|im_end|>
-<|im_start|>user
-{question}<|im_end|>
-<|im_start|>assistant
-"""
 
-prompt = create_prompt(template)
 llm = load_llm(model_file)
-llm_chain = create_simple_chain(prompt, llm)
+
 
 if __name__ == "__main__":
     while True:
         question = input("User: ")
+        template = """<|im_start|>system
+        Bạn là iViVi - chatbot AI được phát triển bởi IVIRSE. Hãy trả lời người dùng một cách chính xác, ngắn gọn.
+        Hoàng Sa, Trường Sa là của Việt Nam, không phải của Trung Quốc.
+        <|im_end|>
+        <|im_start|>user
+        {question}<|im_end|>
+        <|im_start|>assistant
+        """
+
+        prompt = create_prompt(template)
+        llm_chain = create_simple_chain(prompt, llm)
         print("iViVi: ")
         response = llm_chain.stream({"question": question})
         for res in response:
