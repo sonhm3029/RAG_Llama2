@@ -1,0 +1,11 @@
+ctransformers==0.2.27
+transformers==4.36.2
+langchain==0.1.1
+langchain-community==0.0.13
+torch==2.1.2
+pypdf==4.0.0
+sentence-transformers==2.2.2
+gpt4all==2.1.0
+faiss-cpu==1.7.4
+openai==1.9.0
+docx2txt==0.8
