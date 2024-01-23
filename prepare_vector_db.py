@@ -36,7 +36,7 @@ class VectorDB:
         loader = DirectoryLoader(self.pdf_data_path, glob=f"*.{ext}", loader_cls = loader)
         documents = loader.load()
         
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=50)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=512, chunk_overlap=50, separators="\n")
         chunks = text_splitter.split_documents(documents)
 
         db = FAISS.from_documents(chunks, self.embedding_model)

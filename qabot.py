@@ -4,19 +4,22 @@ from langchain.prompts import PromptTemplate
 
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 import time
 
 
-model_file = "models/llama-2-13b-chat.Q4_K_M.gguf"
+model_file = "models/vinallama-7b-chat_q5_0.gguf"
 vector_db_path = "vectorstores/db_faiss"
+callbacks = [StreamingStdOutCallbackHandler()]
 
 def load_llm(model_file):
     llm = CTransformers(
         model = model_file,
         model_type="llama",
         max_new_tokens=1024,
-        temperature=0.01
+        temperature=0.01,
+        callbacks=callbacks
     )
     
     return llm
@@ -30,7 +33,7 @@ def create_qa_chain(prompt, llm, db):
         llm=llm,
         chain_type="stuff",
         retriever = db.as_retriever(search_kwargs = {"k": 3}),
-        return_source_documents = False,
+        return_source_documents = True,
         chain_type_kwargs={"prompt": prompt}
     )
     return llm_chain
@@ -48,7 +51,7 @@ if __name__ == "__main__":
     print(f"Load LLM model in {time.time() - start} seconds")
 
     template = """<|im_start|>system
-    Sử dụng thông tin sau đây để trả lời câu hỏi. Nếu bạn không biết câu trả lời, hãy nói không biết, đừng cố tạo ra câu trả lời
+    Hãy sử dụng các thông tin sau đây để trả lời người dùng một cách chính xác
     {context}
     <|im_end|>
     <|im_start|>user
@@ -61,9 +64,13 @@ if __name__ == "__main__":
     
     start = time.time()
     print("Start thinking ...")
-    question = "Giới thiệu chung về ngành ĐTVT"
-    response = llm_chain.invoke({'query': question})
+    question = "Chào Thầy Cô, em đang phân vân lựa chọn giữa ngành Công nghệ kỹ thuật Điện tử viễn thông với ngành Công nghệ kỹ thuật Điều khiển và Tự động hóa. Xin cho em biết sự khác nhau giữa hai ngành để có lựa chọn đúng đắn nhất?"
+    # response = llm_chain.invoke({"query": question})
+    # print(response)
+    response = llm_chain.stream({'query': question})
+    for res in response:
+        print(res)
     
-    print(response)
+    
     print(f"\nReceive answer after {start - time.time()}s")
 
