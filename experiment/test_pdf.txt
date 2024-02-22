@@ -1,0 +1,625 @@
+Thông tin chi ti ết về ngành ETE9 -Ngành ETE9 Có các thông tin sau:  
+1) Học gì?  
+- Mạch đi ện tử, thiết kế mạch, thi ết kế vi mạch 
+- Cấu trúc máy tính (nhúng) - là máy tính trong đi ện tho ại, trong ô tô, trong thi ết bị điện tử gia 
+dụng, trong th ẻ ngân hàng  
+- Lập trình máy tính nhúng: ngôn ng ữ lập trình C, h ệ điều hành trên máy tính nhúng, đi ều 
+khiển các c ảm biến, động cơ trong các thi ết bị (điều khi ển phần cứng) 
+- Kết nối IoT - Kết nối 4G, 5G, Bluetooth, WIFI, ...  
+- Lập trình truy ền dữ liệu từ máy tính nhúng lên máy ch ủ: Lập trình Java  
+- Lập trình ứng dụng học máy và trí tu ệ nhân t ạo để phân tích d ữ liệu: Lập trình python  
+- Tiếng Nh ật là ngo ại ngữ 
+2) Làm ở đâu: 
+- Viettel High Tech, VNPT Tech, Samsung, Toshiba, Panasonic, LG Electronics, Nisan, FPT 
+Software, FPT Japan, Bosch, Lumi, BKAV, HCL, các công ty t ại Nhật, McNex, Patron, ... 
+(nhiều quá bi ết không h ết) 
+3) Lương kh ởi điểm: 13 -15 tri ệu. Đi Nh ật thì t ầm 50 tri ệu - cần N3, N2 và qua ph ỏng vấn của 
+công ty thì đư ợc tuy ển từ hết năm 3 (1 tháng)  
+ 
+ 
+Thông tin chi ti ết về ngành ET1 - Ngành ETE1 có các thông tin sau  
+Học như nào là sao? Khó như bao ngành khác, nhi ều bài t ập, nhi ều dự án. 
+Học gì?  - Mạch đi ện tử, vi m ạch (con chip đen đen bé tí trên m ạch đi ện tử) cấu trúc máy tính 
+(nhúng - là các máy tính đư ợc đưa vào trong ô tô, thi ết bị điện tử - tivi, tủ lạnh, camera, thi ết 
+bị viễn thông - trạm phát 4G, 5G, wifi, ... ), l ập trình (t ất tần tật các loại luôn - từ phần cứng, 
+đến web, app, cơ s ở dữ liệu, máy ch ủ), hệ thống thông tin di đ ộng (4G, 5G), m ạng máy tính, 
+thiết bị Y sinh, hàng không vũ tr ụ. 
+Làm ở đâu: Các công ty thi ết kế chip (Infineon, Viettel, FPT Semi, Synopsys, Qorvo, 
+Dolphin, HCL, CoA sia, Renesas, Intel), các công ty làm m ạch đi ện tử, làm máy tính nhúng, 
+làm đi ện tho ại (Bosch, FPT Software, Panasonics, LGE, Samsung, Toshiba, Nisan, FPT 
+Japan, VNPT Technology, Viettel High Tech, Meiko, McNex, Patron Vina), Các công ty di 
+động (Vinaphone , Mobifone, Viettel), Các b ệnh vi ện, Các sân bay, Các công ty làm phân 
+tích d ữ liệu, AI/ML (VinBigData, VinAI, Viettel, các ngân hàng, VNPT Media, VNPT IT), Các 
+công ty ph ần mềm (Avepoint, Savycom, FPT Software, VNPT, Viettel, cái này thì nhi ều vô 
+số kể, ...) 
+Mức lương th ế nào: m ới ra trư ờng 13 -15 tri ệu/1 tháng.  
+ 
+ 
+ Hỏi: Em nên ch ọn ngành nào? - Đáp: Nên ch ọn theo s ự yêu thích, kh ả năng c ủa mình? Em 
+có thích l ập trình? Em có thích mày mò các thi ết bị vật lý (c ầm nắm, sờ mó)? Em có h ọc 
+toán, lý gi ỏi? Em đã bi ết lập trình? N ếu có thì Ch ọn Điện tử Viễn thông ngay và luôn .  
+ 
+Hỏi: Điện tử Viễn thông có h ọc lập trình không? - Đáp: ĐTVT h ọc nhi ều lập trình, thu ật toán;  
+ĐTVT không ch ỉ lập trình cho máy tính cá nhân, mà l ập trình cho các máy tính nhúng trong 
+các thi ết bị điện tử (điện tho ại di đ ộng, đ ầu phát wifi, tivi, t ủ lạnh, ô tô, máy bay, th ẻ ngân 
+hàng, đ ồng hồ thông minh, tên l ửa…) 
+ 
+Hỏi: Em chưa bi ết lập trình tí gì? - Đáp: Yên tâm vào ĐTVT s ẽ được dạy lập trình r ất bài 
+bản. 
+ 
+Hỏi : Điện tử Viễn thông làm cái gì? - Đáp: Thi ết kế mạch đi ện tử, máy tính (ki ến trúc sư). 
+Chế tạo mạch đi ện tử, máy tính (xây d ựng). L ập trình m ạch đi ện tử, máy tính nhúng, ứng 
+dụng. Tích h ợp, tối ưu m ạng máy tính, m ạng vi ễn thông, m ạng 4G, 5G, IoT. Nghiên c ứu 
+phát tri ển thiết bị y tế, hàng không, giao thông, quân s ự, dân s ự, viễn thông, …  
+ 
+Hỏi: Tỉ lệ có việc sau khi t ốt nghi ệp? Cơ h ội việc làm? - Đáp: 95% có vi ệc sau 6 tháng; 5% đi 
+du học và làm vi ệc tại nước ngoài. Đi ện tử Viễn thông: ngành hi ệu quả, nhiều việc làm, ít 
+cạnh tranh.  
+ 
+Hỏi: Điện tử Viễn thông ra làm ở đâu? - Đáp: Các công ty nghiên c ứu, phát tri ển, vận hành 
+thiết bị điện tử (dân d ụng, quân s ự, y tế, giao thông, hàng không, ô tô), các start -up 
+Hỏi: Mức lương kh ởi điểm của ngành ĐTVT kho ảng bao nhiêu? - Đáp M ức lương kho ảng 
+10-20 tri ệu. Kĩ sư nghiên c ứu phát tri ển: 20 -40 tri ệu. (VHT tr ả tới 2000 USD). Kĩ sư t ại nước 
+ngoài (Nh ật Bản, Châu Âu, M ỹ): 50-100 tri ệu/1 tháng.  
+ 
+Hỏi: Ngành ET1 h ọc bằng tiếng gì? - Đáp: Ti ếng Vi ệt.  
+ 
+Hỏi: Ngành ETE4, ETE5, ETE16 h ọc bằng tiếng gì? - Đáp: Ti ếng Anh, có chương trình 
+HUST -start đ ể bồi dưỡng tiếng Anh ở năm 1.  
+ 
+Hỏi: ngành ET -E9 học bằng tiếng gì? - Đáp: Ti ếng Vi ệt. Tiếng Nh ật là môn ngo ại ngữ tăng 
+cơ hội làm vi ệc tại Nhật.  
+ 
+Hỏi: ngành ET -LUH h ọc bằng tiếng gì? - Đáp: Ti ếng Vi ệt. Tiếng Đ ức là môn ngo ại ngữ tăng 
+cơ hội đi h ọc tiếp ở Đức 
+ 
+Hỏi: Thông tin v ề ngành ET -E16 m ới mở? - Đáp: Ngành HOT – Trí tu ệ nhân t ạo trong x ử lý 
+đa phương ti ện 
+Hỏi: Ngành ET2 là gì? - Đáp: Ngành m ới mở về khoa h ọc sự sống - Kỹ thuật Y sinh  
+ 
+ 
+ET1, ET1x: Chương trình chu ẩn Kỹ thuật Điện tử Viễn thông, Ch ỉ tiêu: 480, H ọc phí: 22 -28 
+triệu/1 năm. Đi ểm trúng tuy ển: 24.80 (2019), 27.30 (2020)  
+ 
+ET-E4, ET -E4x: Chương trình tiên ti ến Kỹ thuật Điện tử Viễn thông. Ch ỉ tiêu: 60. H ọc phí: 
+40-45 tri ệu/1 năm. Đi ểm trúng tuy ển: 24.60 (2019), 27.15 (2020)  ET-E5, ET -E5x: Chương trình tiên ti ến Kỹ thuật Y sinh. Ch ỉ tiêu: 40. H ọc phí: 40 -45 tri ệu/1 
+năm. Đi ểm trúng tuy ển: 24.10 (2019), 26,50 (2020)  
+ET-E9: Chương trình tiên ti ến Hệ thống nhúng thông minh và IoT. Ch ỉ tiêu: 60. H ọc phí: 40 -
+45 tri ệu/1 năm. Đi ểm trú ng tuy ển: 24.95 (2019), 27.51 (2020)  
+ 
+ET-LUH: Chương trình liên k ết quốc tế Điện tử Viễn thông. Ch ỉ tiêu: 40. H ọc phí: 50 -60 
+triệu/1 năm. Đi ểm trúng tuy ển: 24.95 (2019), 23.85 (2020)  
+ 
+ET-E2: Chương trình k ỹ thuật Y sinh. Ch ỉ tiêu: 60. H ọc phí:22 -28 tri ệu/1 năm 
+Chương trình m ới mở 2022  
+ 
+Em tìm thêm thông tin ở đâu: Flyer www.facebook.com/set2010  set.hust.edu.vn /sinh -vien-
+tuong -lai. Hot line: 0963122389 (Th ầy Minh),  
+ 
+ET-E16: Chương trình tiên ti ến Truy ền thông s ố và Kỹ thuật Đa phương ti ện. Ch ỉ tiêu: 60. 
+Học phí:40 -45 tri ệu/1 năm. Chương trình m ới mở 2020  Em đang phân vân có nên l ựa chọn ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông 
+hay không vì s ợ ra trư ờng khó xin vi ệc. Th ầy, Cô có th ể tư vấn giúp em đư ợc không 
+ạ? - Trả lời:Hiện nay t ổng số nhân l ực của nhóm ngành Công ngh ệ kỹ thuật Điện tử Viễn 
+thông, công  nghệ thông tin là kho ảng 556 ngàn ngư ời và d ự báo đ ến năm 2020 s ẽ cần 
+lượng nhân l ực kho ảng 758 ngàn ngư ời. Theo trung tâm d ự báo nhu c ầu nhân l ực và thông 
+tin th ị trường TP H ồ Chí Minh, nhu c ầu nhân s ự nhóm ngành ngh ề này trong giai đo ạn 
+2020 -2025 v ẫn có nhu c ầu tuy ển dụng rất lớn, có th ể lên đ ến 16.200 ngư ời/năm. Trong 
+nhiều năm t ới nhu c ầu nhân l ực ngành này còn cao hơn r ất nhiều khi các t ập đoàn s ản xuất 
+thiết bị điện tử hàng đ ầu thế giới tới Việt Nam. Nên h ọc ngành này em không c ần lo l ắng về 
+vấn đề khó xin vi ệc. Chúc em may m ắn! 
+ 
+Thầy Cô cho em h ỏi học ngành Công ngh ệ kỹ thuật Điện tử Viễn thông có d ễ xin vi ệc 
+không? Thu nh ập sau khi t ốt nghi ệp ngành này có cao không? - Trả lời: Mục tiêu đào 
+tạo của ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông là t ạo cơ hội việc làm cho sinh viên 
+không ch ỉ ở trong nư ớc mà còn ở quy mô toàn c ầu. Vì ngành Công ngh ệ kỹ thuật Điện tử 
+Viễn thông đang là ngành có t ốc độ tăng trư ởng rất cao, cơ h ội ngh ề nghiệp và thăng ti ến là 
+không gi ới hạn. 
+ 
+Chào Th ầy Cô, em đang phân vân l ựa chọn giữa ngành Công ngh ệ kỹ thuật Điện tử 
+viễn thông v ới ngành Công ngh ệ kỹ thuật Điều khi ển và T ự động hóa. Xin cho em bi ết 
+sự khác nhau gi ữa hai ngành đ ể có lựa chọn đúng đ ắn nh ất?- Trả lời: Hai ngành này 
+có sự giao thoa v ới nhau, ngành Công ngh ệ kỹ thuật Điều khi ển và t ự động hóa lĩnh v ực 
+chính đào t ạo là đi ện tự động hóa, đi ện công nghi ệp và khoa h ọc máy tính. Ngành Công 
+nghệ kỹ thuật Điện tử Viễn thông lĩnh v ực chính đào t ạo là đi ện tử công nghi ệp, điện tử tin 
+học, điện tử y sinh, đi ện tử hàng không,  điện tử điện lạnh, khoa h ọc máy tính và công ngh ệ 
+truyền thông tin.  
+ 
+Chào Th ầy Cô, em đang phân vân l ựa chọn giữa ngành Công ngh ệ kỹ thuật Điện tử 
+viễn thông v ới ngành Công ngh ệ thông tin. Xin cho em bi ết sự khác nhau gi ữa hai 
+ngành đ ể có lựa chọn đúng đ ắn nh ất? Trả lời: Hai ngành này có s ự giao thoa v ới nhau, 
+ngành Công ngh ệ thông tin lĩnh v ực đào t ạo thiên hư ớng m ạnh về phần mềm và gi ải pháp 
+như h ệ thống thông tin, k ỹ thuật phần mềm, m ạng máy tính và m ạng truy ền thông. Còn 
+ngành Công ngh ệ kỹ thuật Điện tử viễn thông thiên hư ớng m ạnh về phần cứng để chế tạo 
+và can thi ệp trực tiếp tới chất lượng của hệ thống. Lĩnh v ực chính đào t ạo của ngành này là 
+điện tử công nghi ệp, điện tử tin học, điện tử y sinh, đi ện tử hàng không, đi ện tử điện lạnh, 
+khoa h ọc máy tính  và kỹ thuật truy ền thông tin.  
+ 
+Em mu ốn làm vi ệc tại các công ty liên quan đ ến cung c ấp dịch vụ, sản xuất hoặc thiết 
+kế giải pháp cho h ệ thống vi ễn thông, Internet. V ậy em nên l ựa chọn ngành nào cho 
+phù h ợp - Trả lời: Các công ty này có nh ững vị trí công v iệc liên quan đ ến cả hai ngành 
+Công ngh ệ Kỹ thuật Điện tử Viễn thông, Công ngh ệ Kỹ thuật máy tính và Công ngh ệ Thông 
+tin. Trong đó, ngành công ngh ệ thông tin t ập trung vào vi ệc xây d ựng các ph ần mềm ứng 
+dụng, còn ngành Công ngh ệ Kỹ thuật Điện tử viễn thông  tập trung v ề nghiên c ứu phát tri ển 
+các gi ải pháp k ỹ thuật phần cứng, ngành Công ngh ệ Kỹ thuật máy tính thì xây d ựng xây 
+dựng cả phần mềm và phát tri ển các gi ải pháp v ề phần cứng. Tùy vào v ị trí công vi ệc cụ thể 
+em hãy t ự đưa ra s ự lựa chọn ngành phù h ợp. 
+Em th ấy các thông tin như: m ạng 3G, 4G hay 5G - kẻ hủy diệt mạng wifi trong tương 
+lai nghe r ất hấp dẫn. Th ầy, Cô cho em h ỏi những thông tin này liên quan đ ến ngành học nào? - Trả lời: Mạng 3G, 4G hay 5G là khái ni ệm về các th ế hệ mạng di đ ộng của công 
+nghệ truyền thông di đ ộng thu ộc kiến thức ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông. 
+Học ngành này em s ẽ được đào t ạo và ti ếp cận với các ki ến thức đó.  
+ 
+Em r ất thích tìm hi ểu về các robot thông minh có kh ả năng trí tu ệ ngày m ột tiệm cận 
+với con ngư ời. Xin Th ầy Cô cho em bi ết, em nên ch ọn ngành nào đ ể được học các 
+kiến thức như v ậy? - Trả lời: Lĩnh v ực robot là lĩnh v ực tự động, còn não robot là các m ạng 
+nơ ron hay trí tu ệ nhân t ạo, để tiếp cận các lĩnh v ực này em c ần có ki ến thức về truyền tin 
+và m ạng nơ ron cũ ng như k ỹ thuật vi đi ều khi ển. Như v ậy em có th ể học ngành Công ngh ệ 
+Kỹ thuật điện tử viễn thông, ngành Công ngh ệ Kỹ thuật máy tính ho ặc ngành Công ngh ệ Kỹ 
+thuật điều khi ển và t ự động hóa. Tuy nhiên v ới ngành công ngh ệ kỹ thuật điều khi ển và t ự 
+động hóa em  sẽ làm vi ệc với các thi ết bị công su ất lớn, còn v ới các thi ết bị với công su ất 
+nhỏ, lĩnh v ực vi đi ều khi ển và nh ận dạng thì thu ộc lĩnh v ực của ngành công ngh ệ kỹ thuật 
+điện tử viễn thông và công ngh ệ kỹ thuật máy tính.  
+ 
+Với mong mu ốn sau khi ra trư ờng d ễ dàng xin vi ệc, đư ợc biết tập đoàn SamSung, 
+Canon, …. đang đ ầu tư r ất mạnh ở Việt Nam. V ậy em nên h ọc ngành nào đ ể trong 
+tương lai có th ể xin vi ệc ở đây?- Trả lời: Tập đoàn SamSung, Canon… là các t ập đoàn 
+lớn về sản xuất và l ắp ráp các thi ết bị điện tử. Các  tập đoàn này đ ều phối hợp với nhà 
+trường trong lĩnh v ực đào t ạo, nhi ều sinh viên nhà trư ờng sau khi t ốt nghi ệp đã làm vi ệc ở 
+đây đ ặc biệt sinh viên các ngành đi ện tử viễn thông, k ỹ thuật máy tính, cơ khí, t ự động hóa, 
+điện-điện tử và công ngh ệ thông tin. Tuy nhiên lư ợng kỹ sư ngành đi ện tử viễn thông, k ỹ 
+thuật máy tính, đi ện – điện tử có th ế mạnh hơn c ả trong các m ảng công vi ệc tại các t ập 
+đoàn này, đ ặc biệt là k ỹ sư ngành đi ện tử viễn thông.  
+ 
+Chào Th ầy Cô, em đang quan tâm t ới lĩnh v ực điều khi ển tự động, vậy em nên ch ọn 
+ngành nào cho phù h ợp? - Trả lời: Nếu em đang quan tâm t ới lĩnh v ực điều khi ển tự động 
+em có th ể lựa chọn ngành Công ngh ệ kỹ thuật Điều khi ển và t ự động hóa, Công ngh ệ kỹ 
+thuật Điện điện tử, Công ngh ệ Kỹ thuật máy tính ho ặc Công ngh ệ kỹ thuật Điện tử viễn 
+thông. Ngành Công ngh ệ kỹ thuật Điều khi ển và t ự động hóa, công ngh ệ kỹ thuật Điện điện 
+tử sẽ chế tạo, điều khi ển các thi ết bị với công su ất lớn từ 220V cho t ới hàng KV. Còn ngành 
+Công ngh ệ kỹ thuật Điện tử viễn thông, Công ngh ệ Kỹ thuật máy tính l ại tập trung ch ế tạo, 
+điều khi ển các thi ết bị với công su ất nhỏ chỉ từ 5V tới 220V.  
+ 
+Em vào ngành h ọc nào đ ể sau này có th ể trở thành chuyên gia đi ều khi ển trong lĩnh 
+vực hàng không và có cơ h ội làm vi ệc ở những nơi này. Trư ờng mình có đào t ạo 
+ngành này không? - Trả lời: Để thực hiện ước mơ c ủa mình, em có th ể vào ngành Công 
+nghệ kỹ thuật Điện tử viễn thông c ủa trư ờng. Đây là ngành s ẽ cung c ấp kiến thức, kỹ năng 
+về thiết kế, lập trình đi ều khi ển và v ận hành h ệ thống đi ện tử hàng không.  
+ 
+Học ngành C ông ngh ệ kỹ thuật Điện tử viễn thông ra trư ờng em có th ể làm bên lĩnh 
+vực Điện tử y sinh đư ợc không? - Trả lời: Học ngành này em hoàn toàn có th ể làm t ốt 
+trong lĩnh v ực Điện tử y sinh. Không nh ững làm t ốt trong lĩnh v ực này, em còn có th ể làm 
+trong lĩnh v ực điện tử công nghi ệp, điện tử tin học, điện tử hàng không, đi ện tử điện lạnh, 
+khoa h ọc máy tính và k ỹ thuật truy ền thông tin.  
+ 
+Em r ất thích ch ế tạo Robot. V ậy học ngành nào có th ể đáp ứng đư ợc nguy ện vọng 
+của em? - Trả lời: Để chế tạo Robot em c ần có ki ến thức cơ b ản của ngành Cơ khí đ ể chế tạo bộ khung cho Robot; có ki ến thức của ngành Đi ện tử viễn thông đ ể thiết kế và ch ế tạo 
+mạch đi ều khi ển; có ki ến thức về ngành Đi ện tử viễn thông ho ặc Kỹ thuật máy tính, Đi ều 
+khiển và t ự động hóa, Đi ện điện tử, Công ngh ệ thông tin đ ể lập trình cho Robot ho ạt động. 
+ 
+Em th ấy các thi ết bị vệ tinh ở rất xa m ặt đất vậy mà v ẫn có th ể thu, phát và x ử lý 
+thông tin chính xác. Em mu ốn tìm hi ểu về lĩnh v ực này. Em có th ể đăng ký h ọc ngành 
+nào ạ? - Trả lời: Kiến thức về vệ tinh, v ề truyền dẫn và x ử lý thông tin các em s ẽ được học 
+trong các môn như: thông tin v ệ tinh, k ỹ thuật truy ền số liệu và m ạng, x ử lý tín hi ệu số, 
+…của ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông.  
+ 
+Em xem trên tivi và đư ợc nghe r ất nhi ều về truyền hình s ố mặt đất, truyền hình s ố vệ 
+tinh. Em mu ốn tìm hi ểu và làm công vi ệc liên quan đ ến lĩnh v ực này. Em đăng ký h ọc 
+ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông có đư ợc không ạ? - Trả lời: Ngành 
+Công ngh ệ Kỹ thuật Điện tử Viễn thông cung c ấp các ki ến thức về kỹ thuật truy ền hình, x ử 
+lý tín hi ệu số, truy ền dẫn, anten truy ền sóng,… đáp ứng các v ị trí công vi ệc của kỹ sư 
+đường truy ền, kỹ sư ki ểm tra ch ất lượng, k ỹ thuật viên,…trong lĩnh v ực truy ền thanh, truy ền 
+hình. N ếu mu ốn làm công vi ệc như v ậy em nên đăng ký h ọc ngành này . 
+ 
+Em chào Th ầy, Cô. Em mu ốn làm các công vi ệc liên quan đ ến thi ết kế, chế tạo và l ập 
+trình các thi ết bị điện tử như: đi ện tho ại di đ ộng, máy tính b ảng, thi ết bị kỹ thuật số cá 
+nhân, thi ết bị dẫn đư ờng… Em l ựa chọn học ngành Công ngh ệ Kỹ thuật Điện tử Viễn 
+thông có phù h ợp không? - Trả lời: Ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông đào 
+tạo kiến thức về hệ thống vi ễn thông, thi ết bị di động và truy ền dẫn,… Đ ồng th ời được tìm 
+hiểu về các ngôn ng ữ lập trình như: Assembly, C/C++, C#...; k ỹ năng thi ết kế mạch nguyên 
+lý, thi ết kế mạch in, ch ế tạo, lắp ráp hàn n ối và ch ỉnh sửa biên d ịch ph ần mềm. Nh ững ki ến 
+thức và k ỹ năng đư ợc đào t ạo này hoàn toàn đáp ứng công vi ệc em yêu thích.  
+ 
+Em mong mu ốn trở thành k ỹ sư phát tri ển ph ần mềm tại các t ập đoàn, công ty Vi ễn 
+thông. V ậy em nên l ựa chọn ngành nào ạ? - Trả lời: Công vi ệc của kỹ sư phát tri ển phần 
+mềm là nghiên c ứu, xây d ựng gi ải pháp, phát tri ển các h ệ thống truy c ập viễn thông, các h ệ 
+thống m ạng lõi, tính toán d ữ liệu trên b ộ nhớ, lập trình đi ều khi ển,... đ ể kiểm tra các module 
+phần mềm. C ả ba ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông, Công ngh ệ Kỹ thuật máy 
+tính và Công ngh ệ Thông tin đ ều liên quan đ ến công vi ệc này. Trong đó, ngàn h công ngh ệ 
+thông tin, K ỹ thuật máy tính t ập trung vào vi ệc xây d ựng các ph ần mềm ứng dụng, còn 
+ngành đi ện tử viễn thông t ập trung v ề nghiên c ứu phát tri ển các gi ải pháp k ỹ thuật. 
+ 
+Học ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông em có th ể làm vi ệc tại vị trí kỹ sư 
+phát tri ển ph ần mềm nhúng ở các công ty, t ập đoàn vi ễn thông không? - Trả lời: 
+Ngành Công ngh ệ Kỹ thuật Điện tử Viễn thôngđàođào t ạo các ki ến thức về vi xử lý, vi đi ều 
+khiển, FPGA, DSP, x ử lý tín hi ệu, lập trình Assembly, C/C++, C#…Vì v ậy, học ngà nh này 
+em hoàn toàn có th ể đảm nhi ệm công vi ệc của kỹ sư phát tri ển phần mềm nhúng t ại tất cả 
+các công ty mà em mong mu ốn làm vi ệc. 
+ 
+Em th ấy khoa h ọc ngày nay r ất phát tri ển. Chúng ta có th ể chế tạo và đi ều khi ển từ xa 
+các thi ết bị như v ệ tinh, tàu vũ tr ụ, máy bay, tàu ng ầm,…V ậy em ch ọn ngành nào đ ể 
+sau này tr ở thành nhà nghiên c ứu, ch ế tạo các thi ết bị hiện đại đó không? - Trả lời: 
+Ngành Công ngh ệ Kỹ thuật Điện tử Viễn thôngs ẽsẽ cung c ấp các ki ến thức về vi xử lý, vi điều khi ển, thông tin v ệ tinh, x ử lý tín hiệu, truy ền dẫn số, trường anten,…Nh ững ki ến thức 
+này s ẽ giúp em th ực hiện ước mơ đó.  
+ 
+Em mu ốn tìm hi ểu và nghiên c ứu về lĩnh v ực truy ền dẫn thông tin. V ậy em h ọc ngành 
+Công ngh ệ Kỹ thuật Điện tử Viễn thông có thích h ợp không? - Trả lời: Ngành Công 
+nghệ Kỹ thuật Điện tử Viễn thông cung c ấp kiến thức liên quan đ ến các thi ết bị truyền, nh ận 
+thông tin và môi trư ờng truy ền dẫn thông tin qua các môn h ọc hệ thống vi ễn thông, thông tin 
+quang, truy ền số liệu và m ạng, trư ờng đi ện từ và kỹ thuật anten,…Vì v ậy em c họn ngành 
+này là hoàn toàn phù h ợp với ý mu ốn của mình.  
+ 
+ Em mu ốn sau khi ra trư ờng sẽ nghiên c ứu và phát tri ển các thi ết bị y tế để hỗ trợ các 
+các bác s ỹ. Xin Th ầy Cô cho em bi ết em nên đăng ký h ọc ngành nào?  - Trả lời: Lĩnh 
+vực thiết bị y tế thuộc mảng kiến thức điện tử y sinh, nhà trư ờng hi ện chưa có ngành đi ện tử 
+y sinh, tuy nhiên ngành Công ngh ệ Kỹ thuật Điện tử viễn thông, Công ngh ệ Kỹ thuật máy 
+tính có th ể trang b ị cho các em các ki ến thức tương ứng như: ki ến thức về mạch, truy ền tin, 
+xử lý tín hi ệu, từ đó em có th ể nghiên c ứu và phát tri ển các thi ết bị này. 
+ 
+Được biết trong nh ững năm g ần đây Vi ệt Nam đã và đang qu ản lý các v ệ tinh như 
+Vinasat 1, Vinasat 2, Vinasat 3. Và hi ện đang nghiên c ứu phát tri ển các v ệ tinh Madein 
+Việt Nam. Em r ất yêu thích lĩn h vực này, v ậy xin Th ầy Cô cho em h ỏi, em nên h ọc 
+ngành gì? - Trả lời: Ngành Công ngh ệ Kỹ thuật Điện tử viễn thông c ủa trư ờng đang đào 
+đạo các ki ến thức về lĩnh v ực điện tử cũng như các ki ến thức về công ngh ệ mạng thông tin, 
+truyền thông tin qua kho ảng các h. Trong lĩnh v ực đào t ạo có nhi ều môn h ọc liên quan đ ến 
+vệ tinh như “Thông tin v ệ tinh, trư ờng đi ện từ và anten, k ỹ thuật truy ền tin, x ử lý tín hi ệu…” 
+đó là các ki ến thức sẽ đáp ứng mong m ỏi của em.  
+ 
+Thưa Th ầy Cô, mong mu ốn sau khi t ốt nghi ệp đại học em s ẽ được làm trong lĩnh v ực 
+công tác đi ều khi ển bay trong sân bay. V ậy em nên h ọc kiến thức gì và đăng ký vào 
+ngành nào? - Trả lời: Lĩnh v ực điều khi ển bay t ại các sân bay liên quan r ất nhiều đến các 
+kiến thức về rada, angten, x ử lý thông tin, x ử lý tín hi ệu. Đây là các ki ến thức nằm ch ủ yếu ở 
+ngành Công ngh ệ Kỹ thuật Điện tử viễn thông.  
+ 
+Em r ất mu ốn tìm hi ểu về các h ệ thống m ạng thông tin, m ạng máy tính. Xin Th ầy Cô 
+cho em bi ết đây có ph ải lĩnh v ực đào t ạo của ngành công ngh ệ thông tin hay không? - Trả 
+lời: Ngành Công ngh ệ thông tin, Công ngh ệ Kỹ thuật máy tính và Công ngh ệ Kỹ thuật Điện 
+tử viễn thông đ ều đào t ạo cho em các ki ến thức về hệ thống m ạng. Tuy nhiên ngành công 
+nghệ thông tin, k ỹ thuật máy tính t ập trung chính vào l ớp ứng dụng (tức là các ph ần mềm) 
+hay các h ệ thống nh ỏ (mạng cục bộ), còn các h ệ thống lớn như các m ạng đa d ịch vụ, mạng 
+ISP, m ạng truy ền thông thu ộc kiến thức của ngành công ngh ệ kỹ thuật Điện tử viễn thông.  
+ 
+Em th ấy các đư ờng cáp quang internet qua bi ển thỉnh tho ảng lại bị đứt. Em mong 
+muốn có th ể nghiên c ứu phát tri ển thêm các đư ờng truy ền thay th ế cũng như kh ắc 
+phục hạn chế này. Xin Th ầy Cô cho em bi ết em nên h ọc ở ngành nào? - Trả lời: Việc 
+truyền tải thông tin có hai hư ớng là vô tuy ến (qua v ệ tinh, anten, tr ạm phát sóng …) và h ữu 
+tuyến (qua cáp đ ồng, cáp quang …). Đây là lĩnh v ực đào t ạo thu ộc ngành Công ngh ệ Kỹ 
+thuật Điện tử viễn thông. Các ki ến thức trong ngành này s ẽ giúp em có hi ểu biết cơ b ản và 
+chuyên sâu, qua đó sinh viên không ch ỉ có sự hiểu biết trong ứng dụng mà còn có th ể 
+nghiên c ứu, cải tiến và phát tri ển các s ản phẩm dịch vụ mới.  
+Gia đình em có nhi ều ngư ời làm ở lĩnh v ực hàng h ải, qua các câu chuy ện em bi ết 
+được việc định vị trên bi ển là vô cùng quan tr ọng và cũng r ất khó khăn. T ừ đó em 
+muốn tìm hi ểu về các thi ết bị hỗ trợ tầu thuy ền trên sông trên bi ển. Vậy em nên h ọc 
+theo ngành nào? - Trả lời: Việc định vị trên bi ển sẽ liên quan đ ến các thi ết bị về bộ đàm, 
+định vị vệ tinh, rada, anten …. Đây là m ảng ki ến thức được giảng dạy trong ngành Công 
+nghệ Kỹ thuật Điện tửviễn thông . 
+ 
+Được biết công ngh ệ ô tô ngày càng phát tri ển và hi ện nhi ều tập đoàn đang hư ớng 
+tới các xe ô tô t ự lái, hay đi ều khi ển bằng gi ọng nói. Em yêu thích v ề lĩnh v ực này, v ậy 
+em nên đăng ký h ọc ngành nào? - Trả lời: Việc ô tô t ự lái liên quan đ ến các công ngh ệ 
+nhận dạng như nh ận dạng hình ảnh, nh ận dạng âm thanh, trí tu ệ nhân t ạo và đi ều khi ển tự 
+động. Các công ngh ệ này đư ợc đào t ạo tại các ngành như Công ngh ệ Kỹ thuật Điện tử viễn 
+thông, Công ngh ệ Kỹ thuật máy tính và ngành t ự động hóa. Tuy nhiên ngành t ự động hóa 
+có thiên hư ớng đi ều khi ển tự động các dây chuy ền sản xuất lớn, còn các công ngh ệ nhận 
+dạng hay vi đi ều khi ển công xu ất nhỏ (trên ô tô) là m ảng ki ển thức chuyên sâu c ủa ngành 
+điện tử viễn thông và K ỹ thuật máy tính.  
+ 
+Xin Th ầy Cô cho em bi ết, nếu em mu ốn sau này làm vi ệc ở các tr ạm dự báo th ời tiết 
+thì em nên đăng ký h ọc ngành nào? - Trả lời: Các tr ạm dự báo th ời thiết thường bao g ồm 
+các c ảm biến (sensor) như c ảm biến nhi ệt độ, cảm biến gió, c ảm biến thủy triều, cảm biến 
+áp su ất … t ừ đó tín hi ệu được truy xu ất qua các m ạnh đi ện tử để đưa ra các d ự báo. V ậy 
+kiến thức cần thiết để làm vi ệc với các hệ thống này là x ử lý tín hi ệu, công ngh ệ cảm biến, 
+các ki ến thức về mạch đi ện tử và nh ận dạng. Ngành đào t ạo kiến thức này trong trư ờng là 
+công ngh ệ kỹ thuật điện tử viễn thông và Công ngh ệ Kỹ thuật máy tính.  
+ 
+ Thông tin chi ti ết về ngành ETE9 -Ngành ETE9 Có các thông tin sau:  
+1) Học gì?  
+- Mạch đi ện tử, thiết kế mạch, thi ết kế vi mạch 
+- Cấu trúc máy tính (nhúng) - là máy tính trong đi ện tho ại, trong ô tô, trong thi ết bị điện tử gia 
+dụng, trong th ẻ ngân hàng  
+- Lập trình máy tính nhúng: ngôn ng ữ lập trình C, h ệ điều hành trên máy tính nhúng, đi ều 
+khiển các c ảm biến, động cơ trong các thi ết bị (điều khi ển phần cứng) 
+- Kết nối IoT - Kết nối 4G, 5G, Bluetooth, WIFI, ...  
+- Lập trình truy ền dữ liệu từ máy tính nhúng lên máy ch ủ: Lập trình Java  
+- Lập trình ứng dụng học máy và trí tu ệ nhân t ạo để phân tích d ữ liệu: Lập trình python  
+- Tiếng Nh ật là ngo ại ngữ 
+2) Làm ở đâu: 
+- Viettel High Tech, VNPT Tech, Samsung, Toshiba, Panasonic, LG Electronics, Nisan, FPT 
+Software, FPT Japan, Bosch, Lumi, BKAV, HCL, các công ty t ại Nhật, McNex, Patron, ... 
+(nhiều quá bi ết không h ết) 
+3) Lương kh ởi điểm: 13 -15 tri ệu. Đi Nh ật thì t ầm 50 tri ệu - cần N3, N2 và qua ph ỏng vấn của 
+công ty thì đư ợc tuy ển từ hết năm 3 (1 tháng)  
+ 
+ 
+Thông tin chi ti ết về ngành ET1 - Ngành ETE1 có các thông tin sau  
+Học như nào là sao? Khó như bao ngành khác, nhi ều bài t ập, nhi ều dự án. 
+Học gì?  - Mạch đi ện tử, vi m ạch (con chip đen đen bé tí trên m ạch đi ện tử) cấu trúc máy tính 
+(nhúng - là các máy tính đư ợc đưa vào trong ô tô, thi ết bị điện tử - tivi, tủ lạnh, camera, thi ết 
+bị viễn thông - trạm phát 4G, 5G, wifi, ... ), l ập trình (t ất tần tật các loại luôn - từ phần cứng, 
+đến web, app, cơ s ở dữ liệu, máy ch ủ), hệ thống thông tin di đ ộng (4G, 5G), m ạng máy tính, 
+thiết bị Y sinh, hàng không vũ tr ụ. 
+Làm ở đâu: Các công ty thi ết kế chip (Infineon, Viettel, FPT Semi, Synopsys, Qorvo, 
+Dolphin, HCL, CoA sia, Renesas, Intel), các công ty làm m ạch đi ện tử, làm máy tính nhúng, 
+làm đi ện tho ại (Bosch, FPT Software, Panasonics, LGE, Samsung, Toshiba, Nisan, FPT 
+Japan, VNPT Technology, Viettel High Tech, Meiko, McNex, Patron Vina), Các công ty di 
+động (Vinaphone , Mobifone, Viettel), Các b ệnh vi ện, Các sân bay, Các công ty làm phân 
+tích d ữ liệu, AI/ML (VinBigData, VinAI, Viettel, các ngân hàng, VNPT Media, VNPT IT), Các 
+công ty ph ần mềm (Avepoint, Savycom, FPT Software, VNPT, Viettel, cái này thì nhi ều vô 
+số kể, ...) 
+Mức lương th ế nào: m ới ra trư ờng 13 -15 tri ệu/1 tháng.  
+ 
+ 
+ Hỏi: Em nên ch ọn ngành nào? - Đáp: Nên ch ọn theo s ự yêu thích, kh ả năng c ủa mình? Em 
+có thích l ập trình? Em có thích mày mò các thi ết bị vật lý (c ầm nắm, sờ mó)? Em có h ọc 
+toán, lý gi ỏi? Em đã bi ết lập trình? N ếu có thì Ch ọn Điện tử Viễn thông ngay và luôn .  
+ 
+Hỏi: Điện tử Viễn thông có h ọc lập trình không? - Đáp: ĐTVT h ọc nhi ều lập trình, thu ật toán;  
+ĐTVT không ch ỉ lập trình cho máy tính cá nhân, mà l ập trình cho các máy tính nhúng trong 
+các thi ết bị điện tử (điện tho ại di đ ộng, đ ầu phát wifi, tivi, t ủ lạnh, ô tô, máy bay, th ẻ ngân 
+hàng, đ ồng hồ thông minh, tên l ửa…) 
+ 
+Hỏi: Em chưa bi ết lập trình tí gì? - Đáp: Yên tâm vào ĐTVT s ẽ được dạy lập trình r ất bài 
+bản. 
+ 
+Hỏi : Điện tử Viễn thông làm cái gì? - Đáp: Thi ết kế mạch đi ện tử, máy tính (ki ến trúc sư). 
+Chế tạo mạch đi ện tử, máy tính (xây d ựng). L ập trình m ạch đi ện tử, máy tính nhúng, ứng 
+dụng. Tích h ợp, tối ưu m ạng máy tính, m ạng vi ễn thông, m ạng 4G, 5G, IoT. Nghiên c ứu 
+phát tri ển thiết bị y tế, hàng không, giao thông, quân s ự, dân s ự, viễn thông, …  
+ 
+Hỏi: Tỉ lệ có việc sau khi t ốt nghi ệp? Cơ h ội việc làm? - Đáp: 95% có vi ệc sau 6 tháng; 5% đi 
+du học và làm vi ệc tại nước ngoài. Đi ện tử Viễn thông: ngành hi ệu quả, nhiều việc làm, ít 
+cạnh tranh.  
+ 
+Hỏi: Điện tử Viễn thông ra làm ở đâu? - Đáp: Các công ty nghiên c ứu, phát tri ển, vận hành 
+thiết bị điện tử (dân d ụng, quân s ự, y tế, giao thông, hàng không, ô tô), các start -up 
+Hỏi: Mức lương kh ởi điểm của ngành ĐTVT kho ảng bao nhiêu? - Đáp M ức lương kho ảng 
+10-20 tri ệu. Kĩ sư nghiên c ứu phát tri ển: 20 -40 tri ệu. (VHT tr ả tới 2000 USD). Kĩ sư t ại nước 
+ngoài (Nh ật Bản, Châu Âu, M ỹ): 50-100 tri ệu/1 tháng.  
+ 
+Hỏi: Ngành ET1 h ọc bằng tiếng gì? - Đáp: Ti ếng Vi ệt.  
+ 
+Hỏi: Ngành ETE4, ETE5, ETE16 h ọc bằng tiếng gì? - Đáp: Ti ếng Anh, có chương trình 
+HUST -start đ ể bồi dưỡng tiếng Anh ở năm 1.  
+ 
+Hỏi: ngành ET -E9 học bằng tiếng gì? - Đáp: Ti ếng Vi ệt. Tiếng Nh ật là môn ngo ại ngữ tăng 
+cơ hội làm vi ệc tại Nhật.  
+ 
+Hỏi: ngành ET -LUH h ọc bằng tiếng gì? - Đáp: Ti ếng Vi ệt. Tiếng Đ ức là môn ngo ại ngữ tăng 
+cơ hội đi h ọc tiếp ở Đức 
+ 
+Hỏi: Thông tin v ề ngành ET -E16 m ới mở? - Đáp: Ngành HOT – Trí tu ệ nhân t ạo trong x ử lý 
+đa phương ti ện 
+Hỏi: Ngành ET2 là gì? - Đáp: Ngành m ới mở về khoa h ọc sự sống - Kỹ thuật Y sinh  
+ 
+ 
+ET1, ET1x: Chương trình chu ẩn Kỹ thuật Điện tử Viễn thông, Ch ỉ tiêu: 480, H ọc phí: 22 -28 
+triệu/1 năm. Đi ểm trúng tuy ển: 24.80 (2019), 27.30 (2020)  
+ 
+ET-E4, ET -E4x: Chương trình tiên ti ến Kỹ thuật Điện tử Viễn thông. Ch ỉ tiêu: 60. H ọc phí: 
+40-45 tri ệu/1 năm. Đi ểm trúng tuy ển: 24.60 (2019), 27.15 (2020)  ET-E5, ET -E5x: Chương trình tiên ti ến Kỹ thuật Y sinh. Ch ỉ tiêu: 40. H ọc phí: 40 -45 tri ệu/1 
+năm. Đi ểm trúng tuy ển: 24.10 (2019), 26,50 (2020)  
+ET-E9: Chương trình tiên ti ến Hệ thống nhúng thông minh và IoT. Ch ỉ tiêu: 60. H ọc phí: 40 -
+45 tri ệu/1 năm. Đi ểm trú ng tuy ển: 24.95 (2019), 27.51 (2020)  
+ 
+ET-LUH: Chương trình liên k ết quốc tế Điện tử Viễn thông. Ch ỉ tiêu: 40. H ọc phí: 50 -60 
+triệu/1 năm. Đi ểm trúng tuy ển: 24.95 (2019), 23.85 (2020)  
+ 
+ET-E2: Chương trình k ỹ thuật Y sinh. Ch ỉ tiêu: 60. H ọc phí:22 -28 tri ệu/1 năm 
+Chương trình m ới mở 2022  
+ 
+Em tìm thêm thông tin ở đâu: Flyer www.facebook.com/set2010  set.hust.edu.vn /sinh -vien-
+tuong -lai. Hot line: 0963122389 (Th ầy Minh),  
+ 
+ET-E16: Chương trình tiên ti ến Truy ền thông s ố và Kỹ thuật Đa phương ti ện. Ch ỉ tiêu: 60. 
+Học phí:40 -45 tri ệu/1 năm. Chương trình m ới mở 2020  Em đang phân vân có nên l ựa chọn ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông 
+hay không vì s ợ ra trư ờng khó xin vi ệc. Th ầy, Cô có th ể tư vấn giúp em đư ợc không 
+ạ? - Trả lời:Hiện nay t ổng số nhân l ực của nhóm ngành Công ngh ệ kỹ thuật Điện tử Viễn 
+thông, công  nghệ thông tin là kho ảng 556 ngàn ngư ời và d ự báo đ ến năm 2020 s ẽ cần 
+lượng nhân l ực kho ảng 758 ngàn ngư ời. Theo trung tâm d ự báo nhu c ầu nhân l ực và thông 
+tin th ị trường TP H ồ Chí Minh, nhu c ầu nhân s ự nhóm ngành ngh ề này trong giai đo ạn 
+2020 -2025 v ẫn có nhu c ầu tuy ển dụng rất lớn, có th ể lên đ ến 16.200 ngư ời/năm. Trong 
+nhiều năm t ới nhu c ầu nhân l ực ngành này còn cao hơn r ất nhiều khi các t ập đoàn s ản xuất 
+thiết bị điện tử hàng đ ầu thế giới tới Việt Nam. Nên h ọc ngành này em không c ần lo l ắng về 
+vấn đề khó xin vi ệc. Chúc em may m ắn! 
+ 
+Thầy Cô cho em h ỏi học ngành Công ngh ệ kỹ thuật Điện tử Viễn thông có d ễ xin vi ệc 
+không? Thu nh ập sau khi t ốt nghi ệp ngành này có cao không? - Trả lời: Mục tiêu đào 
+tạo của ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông là t ạo cơ hội việc làm cho sinh viên 
+không ch ỉ ở trong nư ớc mà còn ở quy mô toàn c ầu. Vì ngành Công ngh ệ kỹ thuật Điện tử 
+Viễn thông đang là ngành có t ốc độ tăng trư ởng rất cao, cơ h ội ngh ề nghiệp và thăng ti ến là 
+không gi ới hạn. 
+ 
+Chào Th ầy Cô, em đang phân vân l ựa chọn giữa ngành Công ngh ệ kỹ thuật Điện tử 
+viễn thông v ới ngành Công ngh ệ kỹ thuật Điều khi ển và T ự động hóa. Xin cho em bi ết 
+sự khác nhau gi ữa hai ngành đ ể có lựa chọn đúng đ ắn nh ất?- Trả lời: Hai ngành này 
+có sự giao thoa v ới nhau, ngành Công ngh ệ kỹ thuật Điều khi ển và t ự động hóa lĩnh v ực 
+chính đào t ạo là đi ện tự động hóa, đi ện công nghi ệp và khoa h ọc máy tính. Ngành Công 
+nghệ kỹ thuật Điện tử Viễn thông lĩnh v ực chính đào t ạo là đi ện tử công nghi ệp, điện tử tin 
+học, điện tử y sinh, đi ện tử hàng không,  điện tử điện lạnh, khoa h ọc máy tính và công ngh ệ 
+truyền thông tin.  
+ 
+Chào Th ầy Cô, em đang phân vân l ựa chọn giữa ngành Công ngh ệ kỹ thuật Điện tử 
+viễn thông v ới ngành Công ngh ệ thông tin. Xin cho em bi ết sự khác nhau gi ữa hai 
+ngành đ ể có lựa chọn đúng đ ắn nh ất? Trả lời: Hai ngành này có s ự giao thoa v ới nhau, 
+ngành Công ngh ệ thông tin lĩnh v ực đào t ạo thiên hư ớng m ạnh về phần mềm và gi ải pháp 
+như h ệ thống thông tin, k ỹ thuật phần mềm, m ạng máy tính và m ạng truy ền thông. Còn 
+ngành Công ngh ệ kỹ thuật Điện tử viễn thông thiên hư ớng m ạnh về phần cứng để chế tạo 
+và can thi ệp trực tiếp tới chất lượng của hệ thống. Lĩnh v ực chính đào t ạo của ngành này là 
+điện tử công nghi ệp, điện tử tin học, điện tử y sinh, đi ện tử hàng không, đi ện tử điện lạnh, 
+khoa h ọc máy tính  và kỹ thuật truy ền thông tin.  
+ 
+Em mu ốn làm vi ệc tại các công ty liên quan đ ến cung c ấp dịch vụ, sản xuất hoặc thiết 
+kế giải pháp cho h ệ thống vi ễn thông, Internet. V ậy em nên l ựa chọn ngành nào cho 
+phù h ợp - Trả lời: Các công ty này có nh ững vị trí công v iệc liên quan đ ến cả hai ngành 
+Công ngh ệ Kỹ thuật Điện tử Viễn thông, Công ngh ệ Kỹ thuật máy tính và Công ngh ệ Thông 
+tin. Trong đó, ngành công ngh ệ thông tin t ập trung vào vi ệc xây d ựng các ph ần mềm ứng 
+dụng, còn ngành Công ngh ệ Kỹ thuật Điện tử viễn thông  tập trung v ề nghiên c ứu phát tri ển 
+các gi ải pháp k ỹ thuật phần cứng, ngành Công ngh ệ Kỹ thuật máy tính thì xây d ựng xây 
+dựng cả phần mềm và phát tri ển các gi ải pháp v ề phần cứng. Tùy vào v ị trí công vi ệc cụ thể 
+em hãy t ự đưa ra s ự lựa chọn ngành phù h ợp. 
+Em th ấy các thông tin như: m ạng 3G, 4G hay 5G - kẻ hủy diệt mạng wifi trong tương 
+lai nghe r ất hấp dẫn. Th ầy, Cô cho em h ỏi những thông tin này liên quan đ ến ngành học nào? - Trả lời: Mạng 3G, 4G hay 5G là khái ni ệm về các th ế hệ mạng di đ ộng của công 
+nghệ truyền thông di đ ộng thu ộc kiến thức ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông. 
+Học ngành này em s ẽ được đào t ạo và ti ếp cận với các ki ến thức đó.  
+ 
+Em r ất thích tìm hi ểu về các robot thông minh có kh ả năng trí tu ệ ngày m ột tiệm cận 
+với con ngư ời. Xin Th ầy Cô cho em bi ết, em nên ch ọn ngành nào đ ể được học các 
+kiến thức như v ậy? - Trả lời: Lĩnh v ực robot là lĩnh v ực tự động, còn não robot là các m ạng 
+nơ ron hay trí tu ệ nhân t ạo, để tiếp cận các lĩnh v ực này em c ần có ki ến thức về truyền tin 
+và m ạng nơ ron cũ ng như k ỹ thuật vi đi ều khi ển. Như v ậy em có th ể học ngành Công ngh ệ 
+Kỹ thuật điện tử viễn thông, ngành Công ngh ệ Kỹ thuật máy tính ho ặc ngành Công ngh ệ Kỹ 
+thuật điều khi ển và t ự động hóa. Tuy nhiên v ới ngành công ngh ệ kỹ thuật điều khi ển và t ự 
+động hóa em  sẽ làm vi ệc với các thi ết bị công su ất lớn, còn v ới các thi ết bị với công su ất 
+nhỏ, lĩnh v ực vi đi ều khi ển và nh ận dạng thì thu ộc lĩnh v ực của ngành công ngh ệ kỹ thuật 
+điện tử viễn thông và công ngh ệ kỹ thuật máy tính.  
+ 
+Với mong mu ốn sau khi ra trư ờng d ễ dàng xin vi ệc, đư ợc biết tập đoàn SamSung, 
+Canon, …. đang đ ầu tư r ất mạnh ở Việt Nam. V ậy em nên h ọc ngành nào đ ể trong 
+tương lai có th ể xin vi ệc ở đây?- Trả lời: Tập đoàn SamSung, Canon… là các t ập đoàn 
+lớn về sản xuất và l ắp ráp các thi ết bị điện tử. Các  tập đoàn này đ ều phối hợp với nhà 
+trường trong lĩnh v ực đào t ạo, nhi ều sinh viên nhà trư ờng sau khi t ốt nghi ệp đã làm vi ệc ở 
+đây đ ặc biệt sinh viên các ngành đi ện tử viễn thông, k ỹ thuật máy tính, cơ khí, t ự động hóa, 
+điện-điện tử và công ngh ệ thông tin. Tuy nhiên lư ợng kỹ sư ngành đi ện tử viễn thông, k ỹ 
+thuật máy tính, đi ện – điện tử có th ế mạnh hơn c ả trong các m ảng công vi ệc tại các t ập 
+đoàn này, đ ặc biệt là k ỹ sư ngành đi ện tử viễn thông.  
+ 
+Chào Th ầy Cô, em đang quan tâm t ới lĩnh v ực điều khi ển tự động, vậy em nên ch ọn 
+ngành nào cho phù h ợp? - Trả lời: Nếu em đang quan tâm t ới lĩnh v ực điều khi ển tự động 
+em có th ể lựa chọn ngành Công ngh ệ kỹ thuật Điều khi ển và t ự động hóa, Công ngh ệ kỹ 
+thuật Điện điện tử, Công ngh ệ Kỹ thuật máy tính ho ặc Công ngh ệ kỹ thuật Điện tử viễn 
+thông. Ngành Công ngh ệ kỹ thuật Điều khi ển và t ự động hóa, công ngh ệ kỹ thuật Điện điện 
+tử sẽ chế tạo, điều khi ển các thi ết bị với công su ất lớn từ 220V cho t ới hàng KV. Còn ngành 
+Công ngh ệ kỹ thuật Điện tử viễn thông, Công ngh ệ Kỹ thuật máy tính l ại tập trung ch ế tạo, 
+điều khi ển các thi ết bị với công su ất nhỏ chỉ từ 5V tới 220V.  
+ 
+Em vào ngành h ọc nào đ ể sau này có th ể trở thành chuyên gia đi ều khi ển trong lĩnh 
+vực hàng không và có cơ h ội làm vi ệc ở những nơi này. Trư ờng mình có đào t ạo 
+ngành này không? - Trả lời: Để thực hiện ước mơ c ủa mình, em có th ể vào ngành Công 
+nghệ kỹ thuật Điện tử viễn thông c ủa trư ờng. Đây là ngành s ẽ cung c ấp kiến thức, kỹ năng 
+về thiết kế, lập trình đi ều khi ển và v ận hành h ệ thống đi ện tử hàng không.  
+ 
+Học ngành C ông ngh ệ kỹ thuật Điện tử viễn thông ra trư ờng em có th ể làm bên lĩnh 
+vực Điện tử y sinh đư ợc không? - Trả lời: Học ngành này em hoàn toàn có th ể làm t ốt 
+trong lĩnh v ực Điện tử y sinh. Không nh ững làm t ốt trong lĩnh v ực này, em còn có th ể làm 
+trong lĩnh v ực điện tử công nghi ệp, điện tử tin học, điện tử hàng không, đi ện tử điện lạnh, 
+khoa h ọc máy tính và k ỹ thuật truy ền thông tin.  
+ 
+Em r ất thích ch ế tạo Robot. V ậy học ngành nào có th ể đáp ứng đư ợc nguy ện vọng 
+của em? - Trả lời: Để chế tạo Robot em c ần có ki ến thức cơ b ản của ngành Cơ khí đ ể chế tạo bộ khung cho Robot; có ki ến thức của ngành Đi ện tử viễn thông đ ể thiết kế và ch ế tạo 
+mạch đi ều khi ển; có ki ến thức về ngành Đi ện tử viễn thông ho ặc Kỹ thuật máy tính, Đi ều 
+khiển và t ự động hóa, Đi ện điện tử, Công ngh ệ thông tin đ ể lập trình cho Robot ho ạt động. 
+ 
+Em th ấy các thi ết bị vệ tinh ở rất xa m ặt đất vậy mà v ẫn có th ể thu, phát và x ử lý 
+thông tin chính xác. Em mu ốn tìm hi ểu về lĩnh v ực này. Em có th ể đăng ký h ọc ngành 
+nào ạ? - Trả lời: Kiến thức về vệ tinh, v ề truyền dẫn và x ử lý thông tin các em s ẽ được học 
+trong các môn như: thông tin v ệ tinh, k ỹ thuật truy ền số liệu và m ạng, x ử lý tín hi ệu số, 
+…của ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông.  
+ 
+Em xem trên tivi và đư ợc nghe r ất nhi ều về truyền hình s ố mặt đất, truyền hình s ố vệ 
+tinh. Em mu ốn tìm hi ểu và làm công vi ệc liên quan đ ến lĩnh v ực này. Em đăng ký h ọc 
+ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông có đư ợc không ạ? - Trả lời: Ngành 
+Công ngh ệ Kỹ thuật Điện tử Viễn thông cung c ấp các ki ến thức về kỹ thuật truy ền hình, x ử 
+lý tín hi ệu số, truy ền dẫn, anten truy ền sóng,… đáp ứng các v ị trí công vi ệc của kỹ sư 
+đường truy ền, kỹ sư ki ểm tra ch ất lượng, k ỹ thuật viên,…trong lĩnh v ực truy ền thanh, truy ền 
+hình. N ếu mu ốn làm công vi ệc như v ậy em nên đăng ký h ọc ngành này . 
+ 
+Em chào Th ầy, Cô. Em mu ốn làm các công vi ệc liên quan đ ến thi ết kế, chế tạo và l ập 
+trình các thi ết bị điện tử như: đi ện tho ại di đ ộng, máy tính b ảng, thi ết bị kỹ thuật số cá 
+nhân, thi ết bị dẫn đư ờng… Em l ựa chọn học ngành Công ngh ệ Kỹ thuật Điện tử Viễn 
+thông có phù h ợp không? - Trả lời: Ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông đào 
+tạo kiến thức về hệ thống vi ễn thông, thi ết bị di động và truy ền dẫn,… Đ ồng th ời được tìm 
+hiểu về các ngôn ng ữ lập trình như: Assembly, C/C++, C#...; k ỹ năng thi ết kế mạch nguyên 
+lý, thi ết kế mạch in, ch ế tạo, lắp ráp hàn n ối và ch ỉnh sửa biên d ịch ph ần mềm. Nh ững ki ến 
+thức và k ỹ năng đư ợc đào t ạo này hoàn toàn đáp ứng công vi ệc em yêu thích.  
+ 
+Em mong mu ốn trở thành k ỹ sư phát tri ển ph ần mềm tại các t ập đoàn, công ty Vi ễn 
+thông. V ậy em nên l ựa chọn ngành nào ạ? - Trả lời: Công vi ệc của kỹ sư phát tri ển phần 
+mềm là nghiên c ứu, xây d ựng gi ải pháp, phát tri ển các h ệ thống truy c ập viễn thông, các h ệ 
+thống m ạng lõi, tính toán d ữ liệu trên b ộ nhớ, lập trình đi ều khi ển,... đ ể kiểm tra các module 
+phần mềm. C ả ba ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông, Công ngh ệ Kỹ thuật máy 
+tính và Công ngh ệ Thông tin đ ều liên quan đ ến công vi ệc này. Trong đó, ngàn h công ngh ệ 
+thông tin, K ỹ thuật máy tính t ập trung vào vi ệc xây d ựng các ph ần mềm ứng dụng, còn 
+ngành đi ện tử viễn thông t ập trung v ề nghiên c ứu phát tri ển các gi ải pháp k ỹ thuật. 
+ 
+Học ngành Công ngh ệ Kỹ thuật Điện tử Viễn thông em có th ể làm vi ệc tại vị trí kỹ sư 
+phát tri ển ph ần mềm nhúng ở các công ty, t ập đoàn vi ễn thông không? - Trả lời: 
+Ngành Công ngh ệ Kỹ thuật Điện tử Viễn thôngđàođào t ạo các ki ến thức về vi xử lý, vi đi ều 
+khiển, FPGA, DSP, x ử lý tín hi ệu, lập trình Assembly, C/C++, C#…Vì v ậy, học ngà nh này 
+em hoàn toàn có th ể đảm nhi ệm công vi ệc của kỹ sư phát tri ển phần mềm nhúng t ại tất cả 
+các công ty mà em mong mu ốn làm vi ệc. 
+ 
+Em th ấy khoa h ọc ngày nay r ất phát tri ển. Chúng ta có th ể chế tạo và đi ều khi ển từ xa 
+các thi ết bị như v ệ tinh, tàu vũ tr ụ, máy bay, tàu ng ầm,…V ậy em ch ọn ngành nào đ ể 
+sau này tr ở thành nhà nghiên c ứu, ch ế tạo các thi ết bị hiện đại đó không? - Trả lời: 
+Ngành Công ngh ệ Kỹ thuật Điện tử Viễn thôngs ẽsẽ cung c ấp các ki ến thức về vi xử lý, vi điều khi ển, thông tin v ệ tinh, x ử lý tín hiệu, truy ền dẫn số, trường anten,…Nh ững ki ến thức 
+này s ẽ giúp em th ực hiện ước mơ đó.  
+ 
+Em mu ốn tìm hi ểu và nghiên c ứu về lĩnh v ực truy ền dẫn thông tin. V ậy em h ọc ngành 
+Công ngh ệ Kỹ thuật Điện tử Viễn thông có thích h ợp không? - Trả lời: Ngành Công 
+nghệ Kỹ thuật Điện tử Viễn thông cung c ấp kiến thức liên quan đ ến các thi ết bị truyền, nh ận 
+thông tin và môi trư ờng truy ền dẫn thông tin qua các môn h ọc hệ thống vi ễn thông, thông tin 
+quang, truy ền số liệu và m ạng, trư ờng đi ện từ và kỹ thuật anten,…Vì v ậy em c họn ngành 
+này là hoàn toàn phù h ợp với ý mu ốn của mình.  
+ 
+ Em mu ốn sau khi ra trư ờng sẽ nghiên c ứu và phát tri ển các thi ết bị y tế để hỗ trợ các 
+các bác s ỹ. Xin Th ầy Cô cho em bi ết em nên đăng ký h ọc ngành nào?  - Trả lời: Lĩnh 
+vực thiết bị y tế thuộc mảng kiến thức điện tử y sinh, nhà trư ờng hi ện chưa có ngành đi ện tử 
+y sinh, tuy nhiên ngành Công ngh ệ Kỹ thuật Điện tử viễn thông, Công ngh ệ Kỹ thuật máy 
+tính có th ể trang b ị cho các em các ki ến thức tương ứng như: ki ến thức về mạch, truy ền tin, 
+xử lý tín hi ệu, từ đó em có th ể nghiên c ứu và phát tri ển các thi ết bị này. 
+ 
+Được biết trong nh ững năm g ần đây Vi ệt Nam đã và đang qu ản lý các v ệ tinh như 
+Vinasat 1, Vinasat 2, Vinasat 3. Và hi ện đang nghiên c ứu phát tri ển các v ệ tinh Madein 
+Việt Nam. Em r ất yêu thích lĩn h vực này, v ậy xin Th ầy Cô cho em h ỏi, em nên h ọc 
+ngành gì? - Trả lời: Ngành Công ngh ệ Kỹ thuật Điện tử viễn thông c ủa trư ờng đang đào 
+đạo các ki ến thức về lĩnh v ực điện tử cũng như các ki ến thức về công ngh ệ mạng thông tin, 
+truyền thông tin qua kho ảng các h. Trong lĩnh v ực đào t ạo có nhi ều môn h ọc liên quan đ ến 
+vệ tinh như “Thông tin v ệ tinh, trư ờng đi ện từ và anten, k ỹ thuật truy ền tin, x ử lý tín hi ệu…” 
+đó là các ki ến thức sẽ đáp ứng mong m ỏi của em.  
+ 
+Thưa Th ầy Cô, mong mu ốn sau khi t ốt nghi ệp đại học em s ẽ được làm trong lĩnh v ực 
+công tác đi ều khi ển bay trong sân bay. V ậy em nên h ọc kiến thức gì và đăng ký vào 
+ngành nào? - Trả lời: Lĩnh v ực điều khi ển bay t ại các sân bay liên quan r ất nhiều đến các 
+kiến thức về rada, angten, x ử lý thông tin, x ử lý tín hi ệu. Đây là các ki ến thức nằm ch ủ yếu ở 
+ngành Công ngh ệ Kỹ thuật Điện tử viễn thông.  
+ 
+Em r ất mu ốn tìm hi ểu về các h ệ thống m ạng thông tin, m ạng máy tính. Xin Th ầy Cô 
+cho em bi ết đây có ph ải lĩnh v ực đào t ạo của ngành công ngh ệ thông tin hay không? - Trả 
+lời: Ngành Công ngh ệ thông tin, Công ngh ệ Kỹ thuật máy tính và Công ngh ệ Kỹ thuật Điện 
+tử viễn thông đ ều đào t ạo cho em các ki ến thức về hệ thống m ạng. Tuy nhiên ngành công 
+nghệ thông tin, k ỹ thuật máy tính t ập trung chính vào l ớp ứng dụng (tức là các ph ần mềm) 
+hay các h ệ thống nh ỏ (mạng cục bộ), còn các h ệ thống lớn như các m ạng đa d ịch vụ, mạng 
+ISP, m ạng truy ền thông thu ộc kiến thức của ngành công ngh ệ kỹ thuật Điện tử viễn thông.  
+ 
+Em th ấy các đư ờng cáp quang internet qua bi ển thỉnh tho ảng lại bị đứt. Em mong 
+muốn có th ể nghiên c ứu phát tri ển thêm các đư ờng truy ền thay th ế cũng như kh ắc 
+phục hạn chế này. Xin Th ầy Cô cho em bi ết em nên h ọc ở ngành nào? - Trả lời: Việc 
+truyền tải thông tin có hai hư ớng là vô tuy ến (qua v ệ tinh, anten, tr ạm phát sóng …) và h ữu 
+tuyến (qua cáp đ ồng, cáp quang …). Đây là lĩnh v ực đào t ạo thu ộc ngành Công ngh ệ Kỹ 
+thuật Điện tử viễn thông. Các ki ến thức trong ngành này s ẽ giúp em có hi ểu biết cơ b ản và 
+chuyên sâu, qua đó sinh viên không ch ỉ có sự hiểu biết trong ứng dụng mà còn có th ể 
+nghiên c ứu, cải tiến và phát tri ển các s ản phẩm dịch vụ mới.  
+Gia đình em có nhi ều ngư ời làm ở lĩnh v ực hàng h ải, qua các câu chuy ện em bi ết 
+được việc định vị trên bi ển là vô cùng quan tr ọng và cũng r ất khó khăn. T ừ đó em 
+muốn tìm hi ểu về các thi ết bị hỗ trợ tầu thuy ền trên sông trên bi ển. Vậy em nên h ọc 
+theo ngành nào? - Trả lời: Việc định vị trên bi ển sẽ liên quan đ ến các thi ết bị về bộ đàm, 
+định vị vệ tinh, rada, anten …. Đây là m ảng ki ến thức được giảng dạy trong ngành Công 
+nghệ Kỹ thuật Điện tửviễn thông . 
+ 
+Được biết công ngh ệ ô tô ngày càng phát tri ển và hi ện nhi ều tập đoàn đang hư ớng 
+tới các xe ô tô t ự lái, hay đi ều khi ển bằng gi ọng nói. Em yêu thích v ề lĩnh v ực này, v ậy 
+em nên đăng ký h ọc ngành nào? - Trả lời: Việc ô tô t ự lái liên quan đ ến các công ngh ệ 
+nhận dạng như nh ận dạng hình ảnh, nh ận dạng âm thanh, trí tu ệ nhân t ạo và đi ều khi ển tự 
+động. Các công ngh ệ này đư ợc đào t ạo tại các ngành như Công ngh ệ Kỹ thuật Điện tử viễn 
+thông, Công ngh ệ Kỹ thuật máy tính và ngành t ự động hóa. Tuy nhiên ngành t ự động hóa 
+có thiên hư ớng đi ều khi ển tự động các dây chuy ền sản xuất lớn, còn các công ngh ệ nhận 
+dạng hay vi đi ều khi ển công xu ất nhỏ (trên ô tô) là m ảng ki ển thức chuyên sâu c ủa ngành 
+điện tử viễn thông và K ỹ thuật máy tính.  
+ 
+Xin Th ầy Cô cho em bi ết, nếu em mu ốn sau này làm vi ệc ở các tr ạm dự báo th ời tiết 
+thì em nên đăng ký h ọc ngành nào? - Trả lời: Các tr ạm dự báo th ời thiết thường bao g ồm 
+các c ảm biến (sensor) như c ảm biến nhi ệt độ, cảm biến gió, c ảm biến thủy triều, cảm biến 
+áp su ất … t ừ đó tín hi ệu được truy xu ất qua các m ạnh đi ện tử để đưa ra các d ự báo. V ậy 
+kiến thức cần thiết để làm vi ệc với các hệ thống này là x ử lý tín hi ệu, công ngh ệ cảm biến, 
+các ki ến thức về mạch đi ện tử và nh ận dạng. Ngành đào t ạo kiến thức này trong trư ờng là 
+công ngh ệ kỹ thuật điện tử viễn thông và Công ngh ệ Kỹ thuật máy tính.  
+ 
+ 

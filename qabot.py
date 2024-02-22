@@ -4,22 +4,19 @@ from langchain.prompts import PromptTemplate
 
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 
 import time
 
 
 model_file = "models/vinallama-7b-chat_q5_0.gguf"
 vector_db_path = "vectorstores/db_faiss"
-callbacks = [StreamingStdOutCallbackHandler()]
 
 def load_llm(model_file):
     llm = CTransformers(
         model = model_file,
         model_type="llama",
         max_new_tokens=1024,
-        temperature=0.01,
-        callbacks=callbacks
+        temperature=0.01
     )
     
     return llm
@@ -51,26 +48,21 @@ if __name__ == "__main__":
     print(f"Load LLM model in {time.time() - start} seconds")
 
     template = """<|im_start|>system
-    Hãy sử dụng các thông tin sau đây để trả lời người dùng một cách chính xác
+    Sử dụng thông tin sau đây để trả lời câu hỏi. Nếu bạn không biết câu trả lời, hãy nói không biết, đừng cố tạo ra câu trả lời
     {context}
     <|im_end|>
     <|im_start|>user
     {question}<|im_end|>
-    <|im_start|>assistant
-    """
+    <|im_start|>assistant"""
 
     prompt = create_prompt(template)
     llm_chain = create_qa_chain(prompt, llm, db)
     
     start = time.time()
     print("Start thinking ...")
-    question = "Chào Thầy Cô, em đang phân vân lựa chọn giữa ngành Công nghệ kỹ thuật Điện tử viễn thông với ngành Công nghệ kỹ thuật Điều khiển và Tự động hóa. Xin cho em biết sự khác nhau giữa hai ngành để có lựa chọn đúng đắn nhất?"
-    # response = llm_chain.invoke({"query": question})
-    # print(response)
-    response = llm_chain.stream({'query': question})
-    for res in response:
-        print(res)
+    question = "Mức lương khởi điểm của kỹ sư ĐTVT là bao nhiêu"
+    response = llm_chain.invoke({'query': question})
     
-    
+    print(response)
     print(f"\nReceive answer after {start - time.time()}s")
 
